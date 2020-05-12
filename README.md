@@ -27,5 +27,5 @@ This repository contains our data analysis to answer the research question - How
 * Dr Garba Moussa
 
 ## Mentors
-*
-*
+* Alok Thakkar
+* Frank DeFalco
