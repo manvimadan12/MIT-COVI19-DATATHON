@@ -19,11 +19,12 @@ This repository contains our data analysis to answer the research question - How
 # Team 
 
 ## Core Team
-* HER NAME ( Project Manager )  - phd ecoomics
-* the other epidemiologist
-* me (data scientist)
-* other data scientist
-* other data scientist 2
+* Ashley O'Donoghue ( Project Manager )  
+* Whitney P
+* Manvi Madan
+* Michael Boals
+* Tenzin
+* Dr Garba Moussa
 
 ## Mentors
 *
