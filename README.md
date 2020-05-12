@@ -9,9 +9,17 @@ This repository contains our data analysis to answer the research question - How
 * [Public Datasts on BigQuery](https://cloud.google.com/bigquery/public-data)
 
 # Exploratory Analysis 
+* Analsysis in Big Query
+
 ` SELECT * 
   FROM bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide
     where ( date >= '2020-01-01')`
+    
+ 
+![COVID 19 cases worldwide](https://github.com/manvimadan12/MIT-COVID19-DATATHON/blob/master/Screenshot%20from%202020-05-12%2018-44-20.png)
+    
+    
+
 
 # Results
 
