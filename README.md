@@ -3,7 +3,8 @@ This repository contains our data analysis to answer the research question - How
 
 # Research Questions Addressed
 * Which businesses are super-spreaders? 
-* 
+* How do these super-spreader businesses differ in visits, length of visits, and/or density in hot-spot states vs. non-hot-spot states?
+
 
 # Datasets
 
