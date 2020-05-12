@@ -5,10 +5,13 @@ This repository contains our data analysis to answer the research question - How
 * Which businesses are super-spreaders? 
 * How do these super-spreader businesses differ in visits, length of visits, and/or density in hot-spot states vs. non-hot-spot states?
 
-
 # Datasets
+* [Public Datasts on BigQuery](https://cloud.google.com/bigquery/public-data)
 
 # Exploratory Analysis 
+` SELECT * 
+  FROM bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide
+    where ( date >= '2020-01-01')`
 
 # Results
 
