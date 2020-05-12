@@ -1,7 +1,9 @@
 # MIT-COVID19-DATATHON
-This repository contains our solution to the research question - -----------------------?
+This repository contains our data analysis to answer the research question - How do various community locations, types of businesses, and types of events vary in terms of COVID-19 transmission risk?
 
-# Hypothesis
+# Research Questions Addressed
+* Which businesses are super-spreaders? 
+* 
 
 # Datasets
 
@@ -11,6 +13,8 @@ This repository contains our solution to the research question - ---------------
 
 
 # References
+* https://www.nytimes.com/interactive/2020/05/06/opinion/coronavirus-us-reopen.html
+
 
 # Team 
 
