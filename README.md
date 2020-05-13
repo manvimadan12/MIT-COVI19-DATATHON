@@ -6,9 +6,9 @@ This repository contains our data analysis to answer the research question - How
 * How do these super-spreader businesses differ in visits, length of visits, and/or density in hot-spot states vs. non-hot-spot states?
 
 # Datasets
-* [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19)
-* [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) 
-* [NAICS](https://www.naics.com/search/)
+* [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed, cases and Deaths) 
+* [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) - (To get Foot Traffic in businesses across industries)
+* [NAICS](https://www.naics.com/search/) - (to map business codes to businesses and industries)
 
 # Requirements 
 [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
