@@ -6,6 +6,8 @@ This repository contains our data analysis to answer the research question - How
 * How do these super-spreader businesses differ in visits, length of visits, and/or density in hot-spot states vs. non-hot-spot states?
 
 # Datasets
+* [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19)
+* [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) 
 * [Public Datasts on BigQuery](https://cloud.google.com/bigquery/public-data) - covid19_ecdc
 
 # Exploratory Analysis 
