@@ -8,10 +8,10 @@ This repository contains our data analysis to answer the research question - How
 # Datasets
 * [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19)
 * [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) 
-* [Public Datasts on BigQuery](https://cloud.google.com/bigquery/public-data) - covid19_ecdc
+
 
 # Exploratory Analysis 
-* Analsysis in Big Query
+* Analsysis in Big Query - [Public Datasts on BigQuery](https://cloud.google.com/bigquery/public-data) - covid19_e
 
 ` SELECT * 
   FROM bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide
