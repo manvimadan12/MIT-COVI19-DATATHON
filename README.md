@@ -26,7 +26,7 @@ This repository contains our data analysis to answer the research question - How
     
 
 # Results
-
+![Businessed by industry in Rhode Island county](https://github.com/manvimadan12/MIT-COVID19-DATATHON/blob/master/Results/After%20aggregations/1.PNG)
 
 # References
 * https://www.nytimes.com/interactive/2020/05/06/opinion/coronavirus-us-reopen.html
