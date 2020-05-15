@@ -34,6 +34,8 @@ This repository contains our data analysis to answer the research question - How
 
 ![4](https://github.com/manvimadan12/MIT-COVID19-DATATHON/blob/master/Results/After%20aggregations/4.PNG)
 
+![5](https://github.com/manvimadan12/MIT-COVID19-DATATHON/blob/master/Results/After%20aggregations/5.PNG)
+
 # References
 * https://www.nytimes.com/interactive/2020/05/06/opinion/coronavirus-us-reopen.html
 
